@@ -9,27 +9,15 @@ rm(list=ls(all=TRUE))
 library(data.table)
 library(reshape2)
 
-setwd("C:/Users/jmaburto/Documents/GitHub/Homicides-and-life-expectancy-in-Brazil/")
+setwd("C:/Users/jmaburto.SAM/Documents/GitHub/Homicides-and-life-expectancy-in-Brazil/")
 
 source('R/Funcs_1.R')
 
-#Data path (files to big gor Github)
-#C:\Users\jmaburto\Documents\Data Brazil Paper
+Data <- data.table(read.csv(file = 'Data/Homicide Database Brazil April29 2019.csv', sep = ';',header = T,stringsAsFactors = F ))
 
-DataPath <- 'C:/Users/jmaburto/Documents/Data Brazil Paper'
-
-# load data
-# work with deaths before
-#- total is all deaths, including both deaths from (2) to (9) and other causes.
-#- in the archive of avoidable causes, we have the causes considered as avoidable by the Ministry of Health, except the causes of (2) to (9).
-
-Deaths <- data.table(read.table(paste0(DataPath,'/aburto version4.txt')  ,header = T,stringsAsFactors = F,sep="\t"))
-#Deaths[is.na(Deaths$deaths),]$deaths <- 0
-
-AM     <- data.table(read.table(paste0(DataPath,'/avoidable causes.txt')  ,header = T,stringsAsFactors = F))
-Deaths <- rbind(Deaths,AM)
-
-unique(Deaths$cause)
+unique(Data$cause)
+unique(Data$year)
+unique(Data$grupid)
 
 #First I need to code numerically region, sex,race, age and cause.
 Deaths$Year   <- Deaths$year
