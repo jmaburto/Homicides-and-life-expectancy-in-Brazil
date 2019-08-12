@@ -25,7 +25,9 @@ e0.Brazil.states  <-  mx.total[,LifeExpectancy(mx = mx,Age = age.group,Sex = ife
 
 e0.Brazil.states  <- e0.Brazil.states[order(region,state_code,sex,year),]
 
-save(e0.Brazil.states, file = 'Data/Check_LifeExpectancy_Brazil190619.RData')
+names(e0.Brazil.states)[6] <- 'life.expectancy'
+
+save(e0.Brazil.states, file = 'Data/Check_LifeExpectancy_Brazil05Aug2019.RData')
 #chek life expectancy levels
-#write.csv(e0.Brazil.states,file = 'Data/Check_LifeExpectancy_Brazil.csv')
+#write.csv(e0.Brazil.states,file = 'Data/Check_LifeExpectancy_Brazil05Aug2019.csv')
  

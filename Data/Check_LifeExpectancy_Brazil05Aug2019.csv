@@ -1,0 +1,865 @@
+"","year","region","state","state_code","sex","life.expectancy"
+"1",2000,"Center West","Mato Grosso do Sul",50,"female",75.2263903513917
+"2",2001,"Center West","Mato Grosso do Sul",50,"female",75.0462356837999
+"3",2002,"Center West","Mato Grosso do Sul",50,"female",75.1426055782374
+"4",2003,"Center West","Mato Grosso do Sul",50,"female",74.730416639502
+"5",2004,"Center West","Mato Grosso do Sul",50,"female",75.2596509925273
+"6",2005,"Center West","Mato Grosso do Sul",50,"female",75.8717557986506
+"7",2006,"Center West","Mato Grosso do Sul",50,"female",76.344287725199
+"8",2007,"Center West","Mato Grosso do Sul",50,"female",76.1745329777373
+"9",2008,"Center West","Mato Grosso do Sul",50,"female",77.2605321818257
+"10",2009,"Center West","Mato Grosso do Sul",50,"female",77.010623878672
+"11",2010,"Center West","Mato Grosso do Sul",50,"female",77.0536975091901
+"12",2011,"Center West","Mato Grosso do Sul",50,"female",77.8244570711422
+"13",2012,"Center West","Mato Grosso do Sul",50,"female",77.951043713812
+"14",2013,"Center West","Mato Grosso do Sul",50,"female",78.1911529849763
+"15",2014,"Center West","Mato Grosso do Sul",50,"female",78.2516054430946
+"16",2015,"Center West","Mato Grosso do Sul",50,"female",78.2749650122334
+"17",2000,"Center West","Mato Grosso do Sul",50,"male",67.7693551854827
+"18",2001,"Center West","Mato Grosso do Sul",50,"male",68.4600416332741
+"19",2002,"Center West","Mato Grosso do Sul",50,"male",68.8115238460084
+"20",2003,"Center West","Mato Grosso do Sul",50,"male",68.5168376182089
+"21",2004,"Center West","Mato Grosso do Sul",50,"male",68.2035897644082
+"22",2005,"Center West","Mato Grosso do Sul",50,"male",68.9627779175702
+"23",2006,"Center West","Mato Grosso do Sul",50,"male",69.206247825793
+"24",2007,"Center West","Mato Grosso do Sul",50,"male",69.5712044137976
+"25",2008,"Center West","Mato Grosso do Sul",50,"male",69.7714660182987
+"26",2009,"Center West","Mato Grosso do Sul",50,"male",70.2584671513159
+"27",2010,"Center West","Mato Grosso do Sul",50,"male",70.0126216947625
+"28",2011,"Center West","Mato Grosso do Sul",50,"male",70.6416064193271
+"29",2012,"Center West","Mato Grosso do Sul",50,"male",70.7452410978407
+"30",2013,"Center West","Mato Grosso do Sul",50,"male",70.9269151839083
+"31",2014,"Center West","Mato Grosso do Sul",50,"male",71.4337189140118
+"32",2015,"Center West","Mato Grosso do Sul",50,"male",71.8174428341353
+"33",2000,"Center West","Mato Grosso",51,"female",73.612176722693
+"34",2001,"Center West","Mato Grosso",51,"female",74.0120872600618
+"35",2002,"Center West","Mato Grosso",51,"female",73.966618927017
+"36",2003,"Center West","Mato Grosso",51,"female",74.6024349123616
+"37",2004,"Center West","Mato Grosso",51,"female",74.1843406747322
+"38",2005,"Center West","Mato Grosso",51,"female",75.0621236093922
+"39",2006,"Center West","Mato Grosso",51,"female",75.111207778616
+"40",2007,"Center West","Mato Grosso",51,"female",76.0976454280335
+"41",2008,"Center West","Mato Grosso",51,"female",76.1029902030377
+"42",2009,"Center West","Mato Grosso",51,"female",75.8306098847622
+"43",2010,"Center West","Mato Grosso",51,"female",75.9861208368708
+"44",2011,"Center West","Mato Grosso",51,"female",76.4400483760745
+"45",2012,"Center West","Mato Grosso",51,"female",76.4184981676518
+"46",2013,"Center West","Mato Grosso",51,"female",76.7114016569717
+"47",2014,"Center West","Mato Grosso",51,"female",76.8332512510977
+"48",2015,"Center West","Mato Grosso",51,"female",77.0335774680724
+"49",2000,"Center West","Mato Grosso",51,"male",65.2758049580967
+"50",2001,"Center West","Mato Grosso",51,"male",66.1189043303821
+"51",2002,"Center West","Mato Grosso",51,"male",66.0736252943401
+"52",2003,"Center West","Mato Grosso",51,"male",66.6516842963158
+"53",2004,"Center West","Mato Grosso",51,"male",66.6817098093079
+"54",2005,"Center West","Mato Grosso",51,"male",67.2580165166701
+"55",2006,"Center West","Mato Grosso",51,"male",68.2705472128852
+"56",2007,"Center West","Mato Grosso",51,"male",69.1056934852753
+"57",2008,"Center West","Mato Grosso",51,"male",68.3792034198942
+"58",2009,"Center West","Mato Grosso",51,"male",69.0224271708594
+"59",2010,"Center West","Mato Grosso",51,"male",69.0952207240003
+"60",2011,"Center West","Mato Grosso",51,"male",69.5083070532209
+"61",2012,"Center West","Mato Grosso",51,"male",69.7314190402212
+"62",2013,"Center West","Mato Grosso",51,"male",70.1981175658986
+"63",2014,"Center West","Mato Grosso",51,"male",70.0141589954431
+"64",2015,"Center West","Mato Grosso",51,"male",70.7189365429395
+"65",2000,"Center West","Goiás",52,"female",73.7429174262186
+"66",2001,"Center West","Goiás",52,"female",73.8779470574174
+"67",2002,"Center West","Goiás",52,"female",73.6863841578872
+"68",2003,"Center West","Goiás",52,"female",74.291062834316
+"69",2004,"Center West","Goiás",52,"female",74.1349017988758
+"70",2005,"Center West","Goiás",52,"female",75.2834885837536
+"71",2006,"Center West","Goiás",52,"female",75.5560971270766
+"72",2007,"Center West","Goiás",52,"female",75.9083956609924
+"73",2008,"Center West","Goiás",52,"female",75.7841251229406
+"74",2009,"Center West","Goiás",52,"female",76.323041881622
+"75",2010,"Center West","Goiás",52,"female",76.1073578911953
+"76",2011,"Center West","Goiás",52,"female",76.2947674541559
+"77",2012,"Center West","Goiás",52,"female",76.2398552726948
+"78",2013,"Center West","Goiás",52,"female",76.70833108755
+"79",2014,"Center West","Goiás",52,"female",76.8929160379115
+"80",2015,"Center West","Goiás",52,"female",77.3951385560734
+"81",2000,"Center West","Goiás",52,"male",66.4238737444268
+"82",2001,"Center West","Goiás",52,"male",67.0015405664883
+"83",2002,"Center West","Goiás",52,"male",66.719095460572
+"84",2003,"Center West","Goiás",52,"male",67.5922328323447
+"85",2004,"Center West","Goiás",52,"male",67.3552070002052
+"86",2005,"Center West","Goiás",52,"male",68.4583177301907
+"87",2006,"Center West","Goiás",52,"male",69.1643111100508
+"88",2007,"Center West","Goiás",52,"male",69.414295669954
+"89",2008,"Center West","Goiás",52,"male",69.3018921217417
+"90",2009,"Center West","Goiás",52,"male",69.9607127868918
+"91",2010,"Center West","Goiás",52,"male",69.7633085861889
+"92",2011,"Center West","Goiás",52,"male",69.7310362262651
+"93",2012,"Center West","Goiás",52,"male",69.649118068882
+"94",2013,"Center West","Goiás",52,"male",70.3827813240695
+"95",2014,"Center West","Goiás",52,"male",70.4972401384925
+"96",2015,"Center West","Goiás",52,"male",70.5154315857601
+"97",2000,"Center West","Distrito Federal",53,"female",76.4195128025634
+"98",2001,"Center West","Distrito Federal",53,"female",76.4727016136681
+"99",2002,"Center West","Distrito Federal",53,"female",76.3300762190634
+"100",2003,"Center West","Distrito Federal",53,"female",77.2956571898122
+"101",2004,"Center West","Distrito Federal",53,"female",76.7031379381479
+"102",2005,"Center West","Distrito Federal",53,"female",77.6381417210572
+"103",2006,"Center West","Distrito Federal",53,"female",77.9823569040237
+"104",2007,"Center West","Distrito Federal",53,"female",78.2226042175559
+"105",2008,"Center West","Distrito Federal",53,"female",78.5687948045865
+"106",2009,"Center West","Distrito Federal",53,"female",79.3245942157127
+"107",2010,"Center West","Distrito Federal",53,"female",79.4162938517776
+"108",2011,"Center West","Distrito Federal",53,"female",79.7700691172218
+"109",2012,"Center West","Distrito Federal",53,"female",80.4012308575525
+"110",2013,"Center West","Distrito Federal",53,"female",80.5497941363909
+"111",2014,"Center West","Distrito Federal",53,"female",80.8120658040798
+"112",2015,"Center West","Distrito Federal",53,"female",81.2736372948902
+"113",2000,"Center West","Distrito Federal",53,"male",68.0385326022354
+"114",2001,"Center West","Distrito Federal",53,"male",68.3357650807218
+"115",2002,"Center West","Distrito Federal",53,"male",68.4116518023325
+"116",2003,"Center West","Distrito Federal",53,"male",68.8261265892736
+"117",2004,"Center West","Distrito Federal",53,"male",68.9514196791588
+"118",2005,"Center West","Distrito Federal",53,"male",69.9245993177902
+"119",2006,"Center West","Distrito Federal",53,"male",70.7739694443975
+"120",2007,"Center West","Distrito Federal",53,"male",71.0695535218111
+"121",2008,"Center West","Distrito Federal",53,"male",71.2025075992568
+"122",2009,"Center West","Distrito Federal",53,"male",71.6791974653261
+"123",2010,"Center West","Distrito Federal",53,"male",72.098295069475
+"124",2011,"Center West","Distrito Federal",53,"male",72.3311317551137
+"125",2012,"Center West","Distrito Federal",53,"male",72.9369775721179
+"126",2013,"Center West","Distrito Federal",53,"male",73.7610293579789
+"127",2014,"Center West","Distrito Federal",53,"male",73.7048326248142
+"128",2015,"Center West","Distrito Federal",53,"male",74.7164638568359
+"129",2000,"North","Rondônia",11,"female",71.5524548026409
+"130",2001,"North","Rondônia",11,"female",71.0366452526599
+"131",2002,"North","Rondônia",11,"female",71.9178504176775
+"132",2003,"North","Rondônia",11,"female",72.4287440584187
+"133",2004,"North","Rondônia",11,"female",73.1539619652
+"134",2005,"North","Rondônia",11,"female",74.0415285726972
+"135",2006,"North","Rondônia",11,"female",74.8476257298111
+"136",2007,"North","Rondônia",11,"female",76.1072952796325
+"137",2008,"North","Rondônia",11,"female",75.7980998793518
+"138",2009,"North","Rondônia",11,"female",75.9100590399205
+"139",2010,"North","Rondônia",11,"female",75.9412969616555
+"140",2011,"North","Rondônia",11,"female",76.4730274844291
+"141",2012,"North","Rondônia",11,"female",76.4937302047708
+"142",2013,"North","Rondônia",11,"female",77.2233576310034
+"143",2014,"North","Rondônia",11,"female",77.8474541826864
+"144",2015,"North","Rondônia",11,"female",77.6130690451079
+"145",2000,"North","Rondônia",11,"male",64.4890028271273
+"146",2001,"North","Rondônia",11,"male",64.2910868738779
+"147",2002,"North","Rondônia",11,"male",65.2045256102953
+"148",2003,"North","Rondônia",11,"male",64.9290452766089
+"149",2004,"North","Rondônia",11,"male",65.583049700654
+"150",2005,"North","Rondônia",11,"male",66.5651549291685
+"151",2006,"North","Rondônia",11,"male",67.5618246763889
+"152",2007,"North","Rondônia",11,"male",69.9153811666484
+"153",2008,"North","Rondônia",11,"male",68.8260615997261
+"154",2009,"North","Rondônia",11,"male",68.2295082681955
+"155",2010,"North","Rondônia",11,"male",68.093058055987
+"156",2011,"North","Rondônia",11,"male",69.6925454257815
+"157",2012,"North","Rondônia",11,"male",69.1096040418924
+"158",2013,"North","Rondônia",11,"male",69.9963390150304
+"159",2014,"North","Rondônia",11,"male",70.227807453674
+"160",2015,"North","Rondônia",11,"male",70.500622482399
+"161",2000,"North","Acre",12,"female",72.6060330862275
+"162",2001,"North","Acre",12,"female",73.6310253681467
+"163",2002,"North","Acre",12,"female",74.7677354153994
+"164",2003,"North","Acre",12,"female",74.2028546225366
+"165",2004,"North","Acre",12,"female",73.988837375267
+"166",2005,"North","Acre",12,"female",73.662893412535
+"167",2006,"North","Acre",12,"female",74.1826824638564
+"168",2007,"North","Acre",12,"female",74.7367939418417
+"169",2008,"North","Acre",12,"female",75.1433918969593
+"170",2009,"North","Acre",12,"female",74.8851275800109
+"171",2010,"North","Acre",12,"female",74.8771667522794
+"172",2011,"North","Acre",12,"female",75.1056569614756
+"173",2012,"North","Acre",12,"female",75.4107070553598
+"174",2013,"North","Acre",12,"female",75.2667931362695
+"175",2014,"North","Acre",12,"female",75.2994450344373
+"176",2015,"North","Acre",12,"female",75.4677721297255
+"177",2000,"North","Acre",12,"male",65.6068903129046
+"178",2001,"North","Acre",12,"male",66.2815560995956
+"179",2002,"North","Acre",12,"male",66.2007205909154
+"180",2003,"North","Acre",12,"male",67.1418598158184
+"181",2004,"North","Acre",12,"male",66.9236412189763
+"182",2005,"North","Acre",12,"male",67.0836409176114
+"183",2006,"North","Acre",12,"male",67.9785255082983
+"184",2007,"North","Acre",12,"male",68.02796688803
+"185",2008,"North","Acre",12,"male",68.3924075096842
+"186",2009,"North","Acre",12,"male",69.3093563460929
+"187",2010,"North","Acre",12,"male",69.3882811216231
+"188",2011,"North","Acre",12,"male",69.413305929936
+"189",2012,"North","Acre",12,"male",69.2523746011848
+"190",2013,"North","Acre",12,"male",70.1511108291199
+"191",2014,"North","Acre",12,"male",70.3547654880934
+"192",2015,"North","Acre",12,"male",70.9632424001509
+"193",2000,"North","Amazonas",13,"female",73.4909256375035
+"194",2001,"North","Amazonas",13,"female",73.6359085246079
+"195",2002,"North","Amazonas",13,"female",74.3583713858601
+"196",2003,"North","Amazonas",13,"female",74.9817741398558
+"197",2004,"North","Amazonas",13,"female",75.1948003081571
+"198",2005,"North","Amazonas",13,"female",75.261266202728
+"199",2006,"North","Amazonas",13,"female",75.2299010674336
+"200",2007,"North","Amazonas",13,"female",75.5196255453059
+"201",2008,"North","Amazonas",13,"female",75.4286055280694
+"202",2009,"North","Amazonas",13,"female",75.8780770397193
+"203",2010,"North","Amazonas",13,"female",76.4801405298659
+"204",2011,"North","Amazonas",13,"female",76.3263250863304
+"205",2012,"North","Amazonas",13,"female",76.1362349187321
+"206",2013,"North","Amazonas",13,"female",76.8522853980937
+"207",2014,"North","Amazonas",13,"female",76.9820497659438
+"208",2015,"North","Amazonas",13,"female",77.0367237778992
+"209",2000,"North","Amazonas",13,"male",66.7185934167435
+"210",2001,"North","Amazonas",13,"male",67.3587242841437
+"211",2002,"North","Amazonas",13,"male",67.7222261088024
+"212",2003,"North","Amazonas",13,"male",68.2519527786363
+"213",2004,"North","Amazonas",13,"male",68.4071134513127
+"214",2005,"North","Amazonas",13,"male",68.9500362528614
+"215",2006,"North","Amazonas",13,"male",69.0425436400456
+"216",2007,"North","Amazonas",13,"male",69.7791157789637
+"217",2008,"North","Amazonas",13,"male",69.3931145113128
+"218",2009,"North","Amazonas",13,"male",69.7735776350095
+"219",2010,"North","Amazonas",13,"male",70.0204482304153
+"220",2011,"North","Amazonas",13,"male",69.7182005877498
+"221",2012,"North","Amazonas",13,"male",69.9797954897738
+"222",2013,"North","Amazonas",13,"male",70.2017333233104
+"223",2014,"North","Amazonas",13,"male",70.2461415714068
+"224",2015,"North","Amazonas",13,"male",70.3012364790442
+"225",2000,"North","Roraima",14,"female",71.4697895384372
+"226",2001,"North","Roraima",14,"female",73.8130692151822
+"227",2002,"North","Roraima",14,"female",73.1577691910355
+"228",2003,"North","Roraima",14,"female",72.6930663783132
+"229",2004,"North","Roraima",14,"female",73.7556766597764
+"230",2005,"North","Roraima",14,"female",73.237224528459
+"231",2006,"North","Roraima",14,"female",73.9712853962693
+"232",2007,"North","Roraima",14,"female",74.6672128547993
+"233",2008,"North","Roraima",14,"female",75.6388384439759
+"234",2009,"North","Roraima",14,"female",75.3300630795342
+"235",2010,"North","Roraima",14,"female",75.6459802507028
+"236",2011,"North","Roraima",14,"female",76.3774313943285
+"237",2012,"North","Roraima",14,"female",75.3693744114386
+"238",2013,"North","Roraima",14,"female",75.412044234843
+"239",2014,"North","Roraima",14,"female",75.536719351798
+"240",2015,"North","Roraima",14,"female",76.0276096883387
+"241",2000,"North","Roraima",14,"male",65.7224726214968
+"242",2001,"North","Roraima",14,"male",67.0695090859133
+"243",2002,"North","Roraima",14,"male",67.1593236466864
+"244",2003,"North","Roraima",14,"male",66.6312191994978
+"245",2004,"North","Roraima",14,"male",66.7098143318059
+"246",2005,"North","Roraima",14,"male",67.4259199975029
+"247",2006,"North","Roraima",14,"male",67.0079144688431
+"248",2007,"North","Roraima",14,"male",67.8523003793708
+"249",2008,"North","Roraima",14,"male",68.3402152684255
+"250",2009,"North","Roraima",14,"male",68.64118598941
+"251",2010,"North","Roraima",14,"male",67.8090798803064
+"252",2011,"North","Roraima",14,"male",68.8847790662247
+"253",2012,"North","Roraima",14,"male",68.0476989755115
+"254",2013,"North","Roraima",14,"male",67.0284678161434
+"255",2014,"North","Roraima",14,"male",67.6386352366262
+"256",2015,"North","Roraima",14,"male",67.0382328585799
+"257",2000,"North","Pará",15,"female",75.1637628823271
+"258",2001,"North","Pará",15,"female",73.894128261234
+"259",2002,"North","Pará",15,"female",75.3202301862679
+"260",2003,"North","Pará",15,"female",74.3591152999644
+"261",2004,"North","Pará",15,"female",74.6488602174199
+"262",2005,"North","Pará",15,"female",74.8832777836764
+"263",2006,"North","Pará",15,"female",75.0040541255375
+"264",2007,"North","Pará",15,"female",74.9102699472167
+"265",2008,"North","Pará",15,"female",74.7386867588977
+"266",2009,"North","Pará",15,"female",74.8595916667744
+"267",2010,"North","Pará",15,"female",75.3142649380747
+"268",2011,"North","Pará",15,"female",74.8232576571035
+"269",2012,"North","Pará",15,"female",74.8595052106792
+"270",2013,"North","Pará",15,"female",75.2689305023039
+"271",2014,"North","Pará",15,"female",75.3699410758368
+"272",2015,"North","Pará",15,"female",75.2139272000131
+"273",2000,"North","Pará",15,"male",68.5067161584024
+"274",2001,"North","Pará",15,"male",67.6748066438518
+"275",2002,"North","Pará",15,"male",68.2523794954956
+"276",2003,"North","Pará",15,"male",67.4985730903908
+"277",2004,"North","Pará",15,"male",67.5506990439564
+"278",2005,"North","Pará",15,"male",67.6728853212212
+"279",2006,"North","Pará",15,"male",67.8146155581746
+"280",2007,"North","Pará",15,"male",68.2210495649422
+"281",2008,"North","Pará",15,"male",67.507252885747
+"282",2009,"North","Pará",15,"male",67.6658767632026
+"283",2010,"North","Pará",15,"male",67.3379289529042
+"284",2011,"North","Pará",15,"male",67.8906396940134
+"285",2012,"North","Pará",15,"male",67.9047091077138
+"286",2013,"North","Pará",15,"male",68.2803372441815
+"287",2014,"North","Pará",15,"male",68.1506596358767
+"288",2015,"North","Pará",15,"male",68.0867980828727
+"289",2000,"North","Amapá",16,"female",75.9172108585856
+"290",2001,"North","Amapá",16,"female",73.1072385169171
+"291",2002,"North","Amapá",16,"female",74.8023121803307
+"292",2003,"North","Amapá",16,"female",75.0517619452457
+"293",2004,"North","Amapá",16,"female",75.0993039099094
+"294",2005,"North","Amapá",16,"female",77.6912728448011
+"295",2006,"North","Amapá",16,"female",77.2175440617078
+"296",2007,"North","Amapá",16,"female",76.9716299421881
+"297",2008,"North","Amapá",16,"female",75.686372775753
+"298",2009,"North","Amapá",16,"female",76.7653911575608
+"299",2010,"North","Amapá",16,"female",76.0835555013327
+"300",2011,"North","Amapá",16,"female",74.5258338259426
+"301",2012,"North","Amapá",16,"female",74.7657136375816
+"302",2013,"North","Amapá",16,"female",75.1851634534705
+"303",2014,"North","Amapá",16,"female",74.1487609615653
+"304",2015,"North","Amapá",16,"female",74.9017530950406
+"305",2000,"North","Amapá",16,"male",65.5227045300527
+"306",2001,"North","Amapá",16,"male",64.5436706151582
+"307",2002,"North","Amapá",16,"male",64.8559672774376
+"308",2003,"North","Amapá",16,"male",66.6930758032965
+"309",2004,"North","Amapá",16,"male",66.4995361469344
+"310",2005,"North","Amapá",16,"male",68.659474284822
+"311",2006,"North","Amapá",16,"male",69.7014681763941
+"312",2007,"North","Amapá",16,"male",69.1424332273703
+"313",2008,"North","Amapá",16,"male",68.3531040563105
+"314",2009,"North","Amapá",16,"male",68.0836530689905
+"315",2010,"North","Amapá",16,"male",69.5699340372449
+"316",2011,"North","Amapá",16,"male",68.1052069262112
+"317",2012,"North","Amapá",16,"male",67.949856483695
+"318",2013,"North","Amapá",16,"male",68.1336807178721
+"319",2014,"North","Amapá",16,"male",68.3866617575033
+"320",2015,"North","Amapá",16,"male",68.4555128925578
+"321",2000,"North","Tocantins",17,"female",72.300838565058
+"322",2001,"North","Tocantins",17,"female",71.7661008623102
+"323",2002,"North","Tocantins",17,"female",72.4684748615385
+"324",2003,"North","Tocantins",17,"female",73.2118701381951
+"325",2004,"North","Tocantins",17,"female",73.1684130140272
+"326",2005,"North","Tocantins",17,"female",74.2942088876577
+"327",2006,"North","Tocantins",17,"female",74.8097792644379
+"328",2007,"North","Tocantins",17,"female",74.5441938247351
+"329",2008,"North","Tocantins",17,"female",74.9911712384449
+"330",2009,"North","Tocantins",17,"female",75.1378503574841
+"331",2010,"North","Tocantins",17,"female",75.5281071996673
+"332",2011,"North","Tocantins",17,"female",75.5450044784235
+"333",2012,"North","Tocantins",17,"female",76.1816120800032
+"334",2013,"North","Tocantins",17,"female",76.7987474458191
+"335",2014,"North","Tocantins",17,"female",76.988581152559
+"336",2015,"North","Tocantins",17,"female",76.9246441419082
+"337",2000,"North","Tocantins",17,"male",66.7639303055016
+"338",2001,"North","Tocantins",17,"male",66.0226459491597
+"339",2002,"North","Tocantins",17,"male",67.0587627917294
+"340",2003,"North","Tocantins",17,"male",67.2564151972801
+"341",2004,"North","Tocantins",17,"male",67.6951536021936
+"342",2005,"North","Tocantins",17,"male",68.7903672717325
+"343",2006,"North","Tocantins",17,"male",69.1535749581145
+"344",2007,"North","Tocantins",17,"male",68.8730807537621
+"345",2008,"North","Tocantins",17,"male",69.1378838664977
+"346",2009,"North","Tocantins",17,"male",69.4521465753308
+"347",2010,"North","Tocantins",17,"male",69.2656857164815
+"348",2011,"North","Tocantins",17,"male",69.8993679638326
+"349",2012,"North","Tocantins",17,"male",71.0699281167014
+"350",2013,"North","Tocantins",17,"male",71.1458556159891
+"351",2014,"North","Tocantins",17,"male",71.6678993861167
+"352",2015,"North","Tocantins",17,"male",72.305545128096
+"353",2000,"Northeast","Maranhão",21,"female",71.5006089192254
+"354",2001,"Northeast","Maranhão",21,"female",69.7049416236789
+"355",2002,"Northeast","Maranhão",21,"female",69.7140748421967
+"356",2003,"Northeast","Maranhão",21,"female",70.0865764485659
+"357",2004,"Northeast","Maranhão",21,"female",71.0448431721483
+"358",2005,"Northeast","Maranhão",21,"female",71.355478044423
+"359",2006,"Northeast","Maranhão",21,"female",73.1595184872988
+"360",2007,"Northeast","Maranhão",21,"female",73.2896953370988
+"361",2008,"Northeast","Maranhão",21,"female",73.4189233513096
+"362",2009,"Northeast","Maranhão",21,"female",74.2363418840903
+"363",2010,"Northeast","Maranhão",21,"female",75.0958560606832
+"364",2011,"Northeast","Maranhão",21,"female",74.4769898023638
+"365",2012,"Northeast","Maranhão",21,"female",75.5255101886419
+"366",2013,"Northeast","Maranhão",21,"female",75.6894585092329
+"367",2014,"Northeast","Maranhão",21,"female",76.2751981755576
+"368",2015,"Northeast","Maranhão",21,"female",76.2307173207994
+"369",2000,"Northeast","Maranhão",21,"male",66.5024282483921
+"370",2001,"Northeast","Maranhão",21,"male",64.4422694317977
+"371",2002,"Northeast","Maranhão",21,"male",64.5512387748007
+"372",2003,"Northeast","Maranhão",21,"male",65.0081310506034
+"373",2004,"Northeast","Maranhão",21,"male",65.6656887551876
+"374",2005,"Northeast","Maranhão",21,"male",65.7834194476373
+"375",2006,"Northeast","Maranhão",21,"male",67.5416301365669
+"376",2007,"Northeast","Maranhão",21,"male",67.7603031762255
+"377",2008,"Northeast","Maranhão",21,"male",67.7934450695909
+"378",2009,"Northeast","Maranhão",21,"male",68.4987247884169
+"379",2010,"Northeast","Maranhão",21,"male",69.2443769825022
+"380",2011,"Northeast","Maranhão",21,"male",68.7561382096783
+"381",2012,"Northeast","Maranhão",21,"male",69.8708300673043
+"382",2013,"Northeast","Maranhão",21,"male",69.7474725711619
+"383",2014,"Northeast","Maranhão",21,"male",70.0795245407819
+"384",2015,"Northeast","Maranhão",21,"male",70.7854881602485
+"385",2000,"Northeast","Piauí",22,"female",71.3988178984677
+"386",2001,"Northeast","Piauí",22,"female",72.0322156702097
+"387",2002,"Northeast","Piauí",22,"female",72.446839625999
+"388",2003,"Northeast","Piauí",22,"female",72.698634661169
+"389",2004,"Northeast","Piauí",22,"female",73.7955784126634
+"390",2005,"Northeast","Piauí",22,"female",74.203467315451
+"391",2006,"Northeast","Piauí",22,"female",74.962913377445
+"392",2007,"Northeast","Piauí",22,"female",75.4189279854446
+"393",2008,"Northeast","Piauí",22,"female",75.5278003317503
+"394",2009,"Northeast","Piauí",22,"female",76.458942041429
+"395",2010,"Northeast","Piauí",22,"female",77.2015936688081
+"396",2011,"Northeast","Piauí",22,"female",76.903687074872
+"397",2012,"Northeast","Piauí",22,"female",77.7392794045694
+"398",2013,"Northeast","Piauí",22,"female",78.0111802713406
+"399",2014,"Northeast","Piauí",22,"female",77.7659766894179
+"400",2015,"Northeast","Piauí",22,"female",77.7689489062139
+"401",2000,"Northeast","Piauí",22,"male",65.362586248332
+"402",2001,"Northeast","Piauí",22,"male",66.1391008224038
+"403",2002,"Northeast","Piauí",22,"male",66.6348495801326
+"404",2003,"Northeast","Piauí",22,"male",66.8280648966112
+"405",2004,"Northeast","Piauí",22,"male",68.0620339431871
+"406",2005,"Northeast","Piauí",22,"male",67.9412452504155
+"407",2006,"Northeast","Piauí",22,"male",68.3672944347874
+"408",2007,"Northeast","Piauí",22,"male",69.0768577397664
+"409",2008,"Northeast","Piauí",22,"male",69.6166624711398
+"410",2009,"Northeast","Piauí",22,"male",70.2584780511156
+"411",2010,"Northeast","Piauí",22,"male",71.1354989335968
+"412",2011,"Northeast","Piauí",22,"male",70.71247459947
+"413",2012,"Northeast","Piauí",22,"male",70.6630775259832
+"414",2013,"Northeast","Piauí",22,"male",70.5748851194937
+"415",2014,"Northeast","Piauí",22,"male",70.5860567472903
+"416",2015,"Northeast","Piauí",22,"male",70.5000584772883
+"417",2000,"Northeast","Ceará",23,"female",73.4958632891623
+"418",2001,"Northeast","Ceará",23,"female",74.0308994419813
+"419",2002,"Northeast","Ceará",23,"female",73.4596922089589
+"420",2003,"Northeast","Ceará",23,"female",73.7592634464387
+"421",2004,"Northeast","Ceará",23,"female",74.2690835518384
+"422",2005,"Northeast","Ceará",23,"female",75.5630130773968
+"423",2006,"Northeast","Ceará",23,"female",75.919651027751
+"424",2007,"Northeast","Ceará",23,"female",76.8367226173241
+"425",2008,"Northeast","Ceará",23,"female",76.8630109192664
+"426",2009,"Northeast","Ceará",23,"female",77.2424728106262
+"427",2010,"Northeast","Ceará",23,"female",78.2540658664713
+"428",2011,"Northeast","Ceará",23,"female",77.9749510959563
+"429",2012,"Northeast","Ceará",23,"female",78.6047824895545
+"430",2013,"Northeast","Ceará",23,"female",78.6411304248007
+"431",2014,"Northeast","Ceará",23,"female",79.2445916004002
+"432",2015,"Northeast","Ceará",23,"female",78.6040275884592
+"433",2000,"Northeast","Ceará",23,"male",67.8260397219612
+"434",2001,"Northeast","Ceará",23,"male",67.8379384865744
+"435",2002,"Northeast","Ceará",23,"male",67.2251100594018
+"436",2003,"Northeast","Ceará",23,"male",67.2691854179096
+"437",2004,"Northeast","Ceará",23,"male",68.0725584267702
+"438",2005,"Northeast","Ceará",23,"male",69.2064486485088
+"439",2006,"Northeast","Ceará",23,"male",69.5692150478899
+"440",2007,"Northeast","Ceará",23,"male",70.2392554500417
+"441",2008,"Northeast","Ceará",23,"male",70.1961092859019
+"442",2009,"Northeast","Ceará",23,"male",70.682704474218
+"443",2010,"Northeast","Ceará",23,"male",71.1443828805737
+"444",2011,"Northeast","Ceará",23,"male",70.784720848248
+"445",2012,"Northeast","Ceará",23,"male",70.8291870951115
+"446",2013,"Northeast","Ceará",23,"male",70.4652338504837
+"447",2014,"Northeast","Ceará",23,"male",70.6420402805273
+"448",2015,"Northeast","Ceará",23,"male",70.6733847047582
+"449",2000,"Northeast","Rio Grande do Norte",24,"female",74.3993951961036
+"450",2001,"Northeast","Rio Grande do Norte",24,"female",74.8995816041445
+"451",2002,"Northeast","Rio Grande do Norte",24,"female",74.7337116761336
+"452",2003,"Northeast","Rio Grande do Norte",24,"female",75.8159376457496
+"453",2004,"Northeast","Rio Grande do Norte",24,"female",75.4977807144519
+"454",2005,"Northeast","Rio Grande do Norte",24,"female",76.7316504999222
+"455",2006,"Northeast","Rio Grande do Norte",24,"female",77.6483855691896
+"456",2007,"Northeast","Rio Grande do Norte",24,"female",77.7224529703558
+"457",2008,"Northeast","Rio Grande do Norte",24,"female",77.7109258684803
+"458",2009,"Northeast","Rio Grande do Norte",24,"female",77.8581228651181
+"459",2010,"Northeast","Rio Grande do Norte",24,"female",78.6646686388002
+"460",2011,"Northeast","Rio Grande do Norte",24,"female",78.0290494865386
+"461",2012,"Northeast","Rio Grande do Norte",24,"female",78.3375745567525
+"462",2013,"Northeast","Rio Grande do Norte",24,"female",78.3286185680032
+"463",2014,"Northeast","Rio Grande do Norte",24,"female",78.6641568539224
+"464",2015,"Northeast","Rio Grande do Norte",24,"female",78.5486627824219
+"465",2000,"Northeast","Rio Grande do Norte",24,"male",68.5413208737053
+"466",2001,"Northeast","Rio Grande do Norte",24,"male",69.1362714528273
+"467",2002,"Northeast","Rio Grande do Norte",24,"male",68.5923632137289
+"468",2003,"Northeast","Rio Grande do Norte",24,"male",69.9688423537224
+"469",2004,"Northeast","Rio Grande do Norte",24,"male",69.5306386827877
+"470",2005,"Northeast","Rio Grande do Norte",24,"male",70.283733316451
+"471",2006,"Northeast","Rio Grande do Norte",24,"male",71.5405163484521
+"472",2007,"Northeast","Rio Grande do Norte",24,"male",70.9967525051034
+"473",2008,"Northeast","Rio Grande do Norte",24,"male",70.5590757490835
+"474",2009,"Northeast","Rio Grande do Norte",24,"male",70.7455092449598
+"475",2010,"Northeast","Rio Grande do Norte",24,"male",71.693174999947
+"476",2011,"Northeast","Rio Grande do Norte",24,"male",70.6882463321892
+"477",2012,"Northeast","Rio Grande do Norte",24,"male",71.1327793179403
+"478",2013,"Northeast","Rio Grande do Norte",24,"male",70.984933486178
+"479",2014,"Northeast","Rio Grande do Norte",24,"male",71.4784177116193
+"480",2015,"Northeast","Rio Grande do Norte",24,"male",71.4474930321164
+"481",2000,"Northeast","Paraíba",25,"female",73.408067858872
+"482",2001,"Northeast","Paraíba",25,"female",73.6712310470152
+"483",2002,"Northeast","Paraíba",25,"female",73.9046986417847
+"484",2003,"Northeast","Paraíba",25,"female",74.4424318249944
+"485",2004,"Northeast","Paraíba",25,"female",74.7113686899351
+"486",2005,"Northeast","Paraíba",25,"female",75.5608513344362
+"487",2006,"Northeast","Paraíba",25,"female",76.0275327546587
+"488",2007,"Northeast","Paraíba",25,"female",76.1788312318473
+"489",2008,"Northeast","Paraíba",25,"female",76.1370375512273
+"490",2009,"Northeast","Paraíba",25,"female",76.4215521310168
+"491",2010,"Northeast","Paraíba",25,"female",76.8250598889718
+"492",2011,"Northeast","Paraíba",25,"female",76.9806224046054
+"493",2012,"Northeast","Paraíba",25,"female",77.1850556812997
+"494",2013,"Northeast","Paraíba",25,"female",77.2580717805322
+"495",2014,"Northeast","Paraíba",25,"female",78.1245195560979
+"496",2015,"Northeast","Paraíba",25,"female",78.2133755064656
+"497",2000,"Northeast","Paraíba",25,"male",65.764810003833
+"498",2001,"Northeast","Paraíba",25,"male",67.2881638444514
+"499",2002,"Northeast","Paraíba",25,"male",67.1066509086082
+"500",2003,"Northeast","Paraíba",25,"male",67.9436203364203
+"501",2004,"Northeast","Paraíba",25,"male",67.8043734757433
+"502",2005,"Northeast","Paraíba",25,"male",68.6859247386998
+"503",2006,"Northeast","Paraíba",25,"male",69.572856355396
+"504",2007,"Northeast","Paraíba",25,"male",69.387420784492
+"505",2008,"Northeast","Paraíba",25,"male",68.9377761449492
+"506",2009,"Northeast","Paraíba",25,"male",69.707029373225
+"507",2010,"Northeast","Paraíba",25,"male",69.8482722745833
+"508",2011,"Northeast","Paraíba",25,"male",69.8191493526512
+"509",2012,"Northeast","Paraíba",25,"male",70.1444670227327
+"510",2013,"Northeast","Paraíba",25,"male",70.1287630648584
+"511",2014,"Northeast","Paraíba",25,"male",70.7660804201638
+"512",2015,"Northeast","Paraíba",25,"male",70.6870925218245
+"513",2000,"Northeast","Pernambuco",26,"female",72.9111198463857
+"514",2001,"Northeast","Pernambuco",26,"female",73.8070780769677
+"515",2002,"Northeast","Pernambuco",26,"female",74.0040226087411
+"516",2003,"Northeast","Pernambuco",26,"female",74.0538653603565
+"517",2004,"Northeast","Pernambuco",26,"female",74.1701140055906
+"518",2005,"Northeast","Pernambuco",26,"female",74.8790154605582
+"519",2006,"Northeast","Pernambuco",26,"female",75.5028019472246
+"520",2007,"Northeast","Pernambuco",26,"female",75.7178330466934
+"521",2008,"Northeast","Pernambuco",26,"female",75.7403685985969
+"522",2009,"Northeast","Pernambuco",26,"female",75.9813568583506
+"523",2010,"Northeast","Pernambuco",26,"female",76.5595829291681
+"524",2011,"Northeast","Pernambuco",26,"female",76.4345876649537
+"525",2012,"Northeast","Pernambuco",26,"female",76.5711009340311
+"526",2013,"Northeast","Pernambuco",26,"female",76.8156585811385
+"527",2014,"Northeast","Pernambuco",26,"female",77.3931574118879
+"528",2015,"Northeast","Pernambuco",26,"female",76.9338186329332
+"529",2000,"Northeast","Pernambuco",26,"male",63.9002946102095
+"530",2001,"Northeast","Pernambuco",26,"male",64.4789531023842
+"531",2002,"Northeast","Pernambuco",26,"male",65.1931248243059
+"532",2003,"Northeast","Pernambuco",26,"male",65.6303019282137
+"533",2004,"Northeast","Pernambuco",26,"male",66.085349787045
+"534",2005,"Northeast","Pernambuco",26,"male",66.9415944777214
+"535",2006,"Northeast","Pernambuco",26,"male",67.4783728512571
+"536",2007,"Northeast","Pernambuco",26,"male",67.4719609652703
+"537",2008,"Northeast","Pernambuco",26,"male",67.959669782382
+"538",2009,"Northeast","Pernambuco",26,"male",68.3584952958557
+"539",2010,"Northeast","Pernambuco",26,"male",68.950093720781
+"540",2011,"Northeast","Pernambuco",26,"male",68.896620116172
+"541",2012,"Northeast","Pernambuco",26,"male",69.5075129299137
+"542",2013,"Northeast","Pernambuco",26,"male",69.6052201992813
+"543",2014,"Northeast","Pernambuco",26,"male",69.9255423409951
+"544",2015,"Northeast","Pernambuco",26,"male",69.2975831491429
+"545",2000,"Northeast","Alagoas",27,"female",73.3221757604311
+"546",2001,"Northeast","Alagoas",27,"female",72.5156437803449
+"547",2002,"Northeast","Alagoas",27,"female",72.698125605132
+"548",2003,"Northeast","Alagoas",27,"female",73.9911786649657
+"549",2004,"Northeast","Alagoas",27,"female",73.5062254405288
+"550",2005,"Northeast","Alagoas",27,"female",74.1435289771789
+"551",2006,"Northeast","Alagoas",27,"female",75.3549664048171
+"552",2007,"Northeast","Alagoas",27,"female",74.8414851959775
+"553",2008,"Northeast","Alagoas",27,"female",75.642049143698
+"554",2009,"Northeast","Alagoas",27,"female",75.2782586851356
+"555",2010,"Northeast","Alagoas",27,"female",75.3741481060722
+"556",2011,"Northeast","Alagoas",27,"female",75.2663133418905
+"557",2012,"Northeast","Alagoas",27,"female",75.7635727462486
+"558",2013,"Northeast","Alagoas",27,"female",75.7229279231644
+"559",2014,"Northeast","Alagoas",27,"female",76.1957569290225
+"560",2015,"Northeast","Alagoas",27,"female",75.8909082954855
+"561",2000,"Northeast","Alagoas",27,"male",67.1574996130253
+"562",2001,"Northeast","Alagoas",27,"male",66.398105793052
+"563",2002,"Northeast","Alagoas",27,"male",66.3830124059575
+"564",2003,"Northeast","Alagoas",27,"male",67.0850553619133
+"565",2004,"Northeast","Alagoas",27,"male",67.4411174294602
+"566",2005,"Northeast","Alagoas",27,"male",68.1048155619853
+"567",2006,"Northeast","Alagoas",27,"male",67.85588350778
+"568",2007,"Northeast","Alagoas",27,"male",67.0322482493014
+"569",2008,"Northeast","Alagoas",27,"male",67.7075403512136
+"570",2009,"Northeast","Alagoas",27,"male",67.6240386493597
+"571",2010,"Northeast","Alagoas",27,"male",67.4209847828278
+"572",2011,"Northeast","Alagoas",27,"male",67.0204478230081
+"573",2012,"Northeast","Alagoas",27,"male",67.935981100701
+"574",2013,"Northeast","Alagoas",27,"male",67.541193917418
+"575",2014,"Northeast","Alagoas",27,"male",68.1567441761664
+"576",2015,"Northeast","Alagoas",27,"male",68.678919405692
+"577",2000,"Northeast","Sergipe",28,"female",73.8945166708648
+"578",2001,"Northeast","Sergipe",28,"female",74.1461135678583
+"579",2002,"Northeast","Sergipe",28,"female",74.6990964023972
+"580",2003,"Northeast","Sergipe",28,"female",75.2950712507353
+"581",2004,"Northeast","Sergipe",28,"female",75.8884289971899
+"582",2005,"Northeast","Sergipe",28,"female",76.0127819565882
+"583",2006,"Northeast","Sergipe",28,"female",76.374227421603
+"584",2007,"Northeast","Sergipe",28,"female",76.7732638289571
+"585",2008,"Northeast","Sergipe",28,"female",76.3865336371521
+"586",2009,"Northeast","Sergipe",28,"female",76.6652727709486
+"587",2010,"Northeast","Sergipe",28,"female",77.1443962077237
+"588",2011,"Northeast","Sergipe",28,"female",76.6291311866708
+"589",2012,"Northeast","Sergipe",28,"female",76.6441892781174
+"590",2013,"Northeast","Sergipe",28,"female",77.0401876303968
+"591",2014,"Northeast","Sergipe",28,"female",77.3133972143808
+"592",2015,"Northeast","Sergipe",28,"female",76.7377675612617
+"593",2000,"Northeast","Sergipe",28,"male",67.239554440585
+"594",2001,"Northeast","Sergipe",28,"male",67.297377099302
+"595",2002,"Northeast","Sergipe",28,"male",67.4191878092035
+"596",2003,"Northeast","Sergipe",28,"male",68.5393560355785
+"597",2004,"Northeast","Sergipe",28,"male",68.7187512711814
+"598",2005,"Northeast","Sergipe",28,"male",68.791375684415
+"599",2006,"Northeast","Sergipe",28,"male",69.7250871721754
+"600",2007,"Northeast","Sergipe",28,"male",70.0293790984258
+"601",2008,"Northeast","Sergipe",28,"male",69.8492524763017
+"602",2009,"Northeast","Sergipe",28,"male",69.5570591087906
+"603",2010,"Northeast","Sergipe",28,"male",69.5325882483867
+"604",2011,"Northeast","Sergipe",28,"male",69.6254884707053
+"605",2012,"Northeast","Sergipe",28,"male",69.441792187228
+"606",2013,"Northeast","Sergipe",28,"male",69.3328102463652
+"607",2014,"Northeast","Sergipe",28,"male",69.7044532958274
+"608",2015,"Northeast","Sergipe",28,"male",68.6823426401624
+"609",2000,"Northeast","Bahia",29,"female",73.3456180859339
+"610",2001,"Northeast","Bahia",29,"female",73.9315730270815
+"611",2002,"Northeast","Bahia",29,"female",74.1730333290357
+"612",2003,"Northeast","Bahia",29,"female",74.6589726322515
+"613",2004,"Northeast","Bahia",29,"female",75.193260546981
+"614",2005,"Northeast","Bahia",29,"female",75.7360278362447
+"615",2006,"Northeast","Bahia",29,"female",75.9640886448434
+"616",2007,"Northeast","Bahia",29,"female",76.7363949376788
+"617",2008,"Northeast","Bahia",29,"female",76.8617306789904
+"618",2009,"Northeast","Bahia",29,"female",77.0881241118066
+"619",2010,"Northeast","Bahia",29,"female",77.3522169985223
+"620",2011,"Northeast","Bahia",29,"female",77.5238941400082
+"621",2012,"Northeast","Bahia",29,"female",77.8579839649369
+"622",2013,"Northeast","Bahia",29,"female",78.3501103835751
+"623",2014,"Northeast","Bahia",29,"female",78.8243313198879
+"624",2015,"Northeast","Bahia",29,"female",78.6819885261995
+"625",2000,"Northeast","Bahia",29,"male",68.4214694222017
+"626",2001,"Northeast","Bahia",29,"male",68.5037522674136
+"627",2002,"Northeast","Bahia",29,"male",68.7330255876008
+"628",2003,"Northeast","Bahia",29,"male",69.0737243137746
+"629",2004,"Northeast","Bahia",29,"male",69.4358934002974
+"630",2005,"Northeast","Bahia",29,"male",70.1571471678557
+"631",2006,"Northeast","Bahia",29,"male",69.9370006092547
+"632",2007,"Northeast","Bahia",29,"male",70.3624442197138
+"633",2008,"Northeast","Bahia",29,"male",70.0425793593863
+"634",2009,"Northeast","Bahia",29,"male",70.0071535992905
+"635",2010,"Northeast","Bahia",29,"male",70.0332762138033
+"636",2011,"Northeast","Bahia",29,"male",70.4309308431921
+"637",2012,"Northeast","Bahia",29,"male",70.4493485630001
+"638",2013,"Northeast","Bahia",29,"male",70.8527139779138
+"639",2014,"Northeast","Bahia",29,"male",70.8594202575443
+"640",2015,"Northeast","Bahia",29,"male",71.2435296314009
+"641",2000,"South","Paraná",41,"female",74.0779800337603
+"642",2001,"South","Paraná",41,"female",74.992110221992
+"643",2002,"South","Paraná",41,"female",75.1452973353663
+"644",2003,"South","Paraná",41,"female",75.6505696704994
+"645",2004,"South","Paraná",41,"female",75.6180631408881
+"646",2005,"South","Paraná",41,"female",76.4473426156863
+"647",2006,"South","Paraná",41,"female",76.5501440394063
+"648",2007,"South","Paraná",41,"female",77.0423328717435
+"649",2008,"South","Paraná",41,"female",77.1166954142888
+"650",2009,"South","Paraná",41,"female",77.6499232462699
+"651",2010,"South","Paraná",41,"female",77.6325853091737
+"652",2011,"South","Paraná",41,"female",77.8950672331328
+"653",2012,"South","Paraná",41,"female",78.2631921829623
+"654",2013,"South","Paraná",41,"female",78.3535922303116
+"655",2014,"South","Paraná",41,"female",78.7569189134878
+"656",2015,"South","Paraná",41,"female",78.9696001674138
+"657",2000,"South","Paraná",41,"male",67.6283641487264
+"658",2001,"South","Paraná",41,"male",68.3644174492452
+"659",2002,"South","Paraná",41,"male",68.4647358192862
+"660",2003,"South","Paraná",41,"male",68.711239980149
+"661",2004,"South","Paraná",41,"male",68.6357552535056
+"662",2005,"South","Paraná",41,"male",69.4871885726541
+"663",2006,"South","Paraná",41,"male",69.7235539007681
+"664",2007,"South","Paraná",41,"male",69.9937591797168
+"665",2008,"South","Paraná",41,"male",70.0066280799069
+"666",2009,"South","Paraná",41,"male",70.2020532575658
+"667",2010,"South","Paraná",41,"male",70.5255419662875
+"668",2011,"South","Paraná",41,"male",70.6301214014375
+"669",2012,"South","Paraná",41,"male",71.0443233449772
+"670",2013,"South","Paraná",41,"male",71.5394863038842
+"671",2014,"South","Paraná",41,"male",72.1980681768
+"672",2015,"South","Paraná",41,"male",72.4006830181144
+"673",2000,"South","Santa Catarina",42,"female",75.8599351285254
+"674",2001,"South","Santa Catarina",42,"female",76.575490356194
+"675",2002,"South","Santa Catarina",42,"female",76.828740870506
+"676",2003,"South","Santa Catarina",42,"female",77.172014245611
+"677",2004,"South","Santa Catarina",42,"female",77.2696755998053
+"678",2005,"South","Santa Catarina",42,"female",77.9747321443549
+"679",2006,"South","Santa Catarina",42,"female",78.3271154801203
+"680",2007,"South","Santa Catarina",42,"female",78.3556289166757
+"681",2008,"South","Santa Catarina",42,"female",78.9143604238596
+"682",2009,"South","Santa Catarina",42,"female",78.8229932979737
+"683",2010,"South","Santa Catarina",42,"female",79.0741471085567
+"684",2011,"South","Santa Catarina",42,"female",79.0347640652288
+"685",2012,"South","Santa Catarina",42,"female",79.5077493686767
+"686",2013,"South","Santa Catarina",42,"female",79.8698130785129
+"687",2014,"South","Santa Catarina",42,"female",80.0814733344495
+"688",2015,"South","Santa Catarina",42,"female",80.3742765939352
+"689",2000,"South","Santa Catarina",42,"male",68.9448686283518
+"690",2001,"South","Santa Catarina",42,"male",69.4225409594208
+"691",2002,"South","Santa Catarina",42,"male",69.7037188639212
+"692",2003,"South","Santa Catarina",42,"male",69.8719246541131
+"693",2004,"South","Santa Catarina",42,"male",70.0028879043042
+"694",2005,"South","Santa Catarina",42,"male",70.9686839947709
+"695",2006,"South","Santa Catarina",42,"male",71.2788751298718
+"696",2007,"South","Santa Catarina",42,"male",71.1434720797277
+"697",2008,"South","Santa Catarina",42,"male",71.9306798835411
+"698",2009,"South","Santa Catarina",42,"male",71.7726977403542
+"699",2010,"South","Santa Catarina",42,"male",72.3156697893771
+"700",2011,"South","Santa Catarina",42,"male",72.2593121683953
+"701",2012,"South","Santa Catarina",42,"male",73.164344011599
+"702",2013,"South","Santa Catarina",42,"male",73.3731984886052
+"703",2014,"South","Santa Catarina",42,"male",73.7584620631
+"704",2015,"South","Santa Catarina",42,"male",73.8403412513194
+"705",2000,"South","Rio Grande do Sul",43,"female",75.965646172565
+"706",2001,"South","Rio Grande do Sul",43,"female",76.4426150247531
+"707",2002,"South","Rio Grande do Sul",43,"female",76.6076882779305
+"708",2003,"South","Rio Grande do Sul",43,"female",76.8858839289918
+"709",2004,"South","Rio Grande do Sul",43,"female",76.9946473652875
+"710",2005,"South","Rio Grande do Sul",43,"female",77.6390103522395
+"711",2006,"South","Rio Grande do Sul",43,"female",77.7119716217752
+"712",2007,"South","Rio Grande do Sul",43,"female",77.7566164795594
+"713",2008,"South","Rio Grande do Sul",43,"female",78.4438722808536
+"714",2009,"South","Rio Grande do Sul",43,"female",78.3524276581084
+"715",2010,"South","Rio Grande do Sul",43,"female",78.5553285384797
+"716",2011,"South","Rio Grande do Sul",43,"female",78.5111840873633
+"717",2012,"South","Rio Grande do Sul",43,"female",78.9626547470829
+"718",2013,"South","Rio Grande do Sul",43,"female",78.8654865324101
+"719",2014,"South","Rio Grande do Sul",43,"female",79.482476828357
+"720",2015,"South","Rio Grande do Sul",43,"female",79.7180286342764
+"721",2000,"South","Rio Grande do Sul",43,"male",67.9377579017422
+"722",2001,"South","Rio Grande do Sul",43,"male",68.2627853213618
+"723",2002,"South","Rio Grande do Sul",43,"male",68.6479681943755
+"724",2003,"South","Rio Grande do Sul",43,"male",68.8088220038746
+"725",2004,"South","Rio Grande do Sul",43,"male",69.02144137847
+"726",2005,"South","Rio Grande do Sul",43,"male",69.8199880164152
+"727",2006,"South","Rio Grande do Sul",43,"male",70.221206697848
+"728",2007,"South","Rio Grande do Sul",43,"male",70.2420275384493
+"729",2008,"South","Rio Grande do Sul",43,"male",70.7743073284093
+"730",2009,"South","Rio Grande do Sul",43,"male",70.9515563574312
+"731",2010,"South","Rio Grande do Sul",43,"male",71.3718109039862
+"732",2011,"South","Rio Grande do Sul",43,"male",71.5178679521818
+"733",2012,"South","Rio Grande do Sul",43,"male",71.9498052905544
+"734",2013,"South","Rio Grande do Sul",43,"male",71.8371985618547
+"735",2014,"South","Rio Grande do Sul",43,"male",72.2138940126113
+"736",2015,"South","Rio Grande do Sul",43,"male",72.733119073553
+"737",2000,"Southeast","Minas Gerais",31,"female",74.7241583166624
+"738",2001,"Southeast","Minas Gerais",31,"female",75.0979261088206
+"739",2002,"Southeast","Minas Gerais",31,"female",75.7485192454209
+"740",2003,"Southeast","Minas Gerais",31,"female",75.5781232920484
+"741",2004,"Southeast","Minas Gerais",31,"female",75.9683092868002
+"742",2005,"Southeast","Minas Gerais",31,"female",76.7219159505591
+"743",2006,"Southeast","Minas Gerais",31,"female",76.6012551435638
+"744",2007,"Southeast","Minas Gerais",31,"female",77.3474223432473
+"745",2008,"Southeast","Minas Gerais",31,"female",77.5624352237217
+"746",2009,"Southeast","Minas Gerais",31,"female",78.0183252116307
+"747",2010,"Southeast","Minas Gerais",31,"female",77.8737583194003
+"748",2011,"Southeast","Minas Gerais",31,"female",78.2727246572721
+"749",2012,"Southeast","Minas Gerais",31,"female",78.6517036212627
+"750",2013,"Southeast","Minas Gerais",31,"female",79.1831076287479
+"751",2014,"Southeast","Minas Gerais",31,"female",79.5988115214256
+"752",2015,"Southeast","Minas Gerais",31,"female",79.5668142175744
+"753",2000,"Southeast","Minas Gerais",31,"male",67.7249518765536
+"754",2001,"Southeast","Minas Gerais",31,"male",68.0714003597168
+"755",2002,"Southeast","Minas Gerais",31,"male",68.8020149794989
+"756",2003,"Southeast","Minas Gerais",31,"male",68.2959745429582
+"757",2004,"Southeast","Minas Gerais",31,"male",68.5784112014528
+"758",2005,"Southeast","Minas Gerais",31,"male",69.405161674404
+"759",2006,"Southeast","Minas Gerais",31,"male",69.4173508095438
+"760",2007,"Southeast","Minas Gerais",31,"male",70.1789628255987
+"761",2008,"Southeast","Minas Gerais",31,"male",70.8043462050887
+"762",2009,"Southeast","Minas Gerais",31,"male",71.338581349097
+"763",2010,"Southeast","Minas Gerais",31,"male",71.4072051800007
+"764",2011,"Southeast","Minas Gerais",31,"male",71.7471817538854
+"765",2012,"Southeast","Minas Gerais",31,"male",72.1479406271851
+"766",2013,"Southeast","Minas Gerais",31,"male",72.6617533066282
+"767",2014,"Southeast","Minas Gerais",31,"male",72.913260878843
+"768",2015,"Southeast","Minas Gerais",31,"male",73.096620709805
+"769",2000,"Southeast","Espírito Santo",32,"female",74.538515250838
+"770",2001,"Southeast","Espírito Santo",32,"female",75.0017187814927
+"771",2002,"Southeast","Espírito Santo",32,"female",75.7217242219634
+"772",2003,"Southeast","Espírito Santo",32,"female",75.6954949059129
+"773",2004,"Southeast","Espírito Santo",32,"female",76.323753276837
+"774",2005,"Southeast","Espírito Santo",32,"female",76.8233415066679
+"775",2006,"Southeast","Espírito Santo",32,"female",76.6282166882811
+"776",2007,"Southeast","Espírito Santo",32,"female",77.4383486881973
+"777",2008,"Southeast","Espírito Santo",32,"female",77.5547350860308
+"778",2009,"Southeast","Espírito Santo",32,"female",78.1080975292887
+"779",2010,"Southeast","Espírito Santo",32,"female",78.5503852133038
+"780",2011,"Southeast","Espírito Santo",32,"female",78.8248932829007
+"781",2012,"Southeast","Espírito Santo",32,"female",79.3241788112969
+"782",2013,"Southeast","Espírito Santo",32,"female",79.9164358467554
+"783",2014,"Southeast","Espírito Santo",32,"female",80.0264748245735
+"784",2015,"Southeast","Espírito Santo",32,"female",80.2514856965346
+"785",2000,"Southeast","Espírito Santo",32,"male",66.5168737954239
+"786",2001,"Southeast","Espírito Santo",32,"male",67.2429501135053
+"787",2002,"Southeast","Espírito Santo",32,"male",67.876687312151
+"788",2003,"Southeast","Espírito Santo",32,"male",68.0249664108898
+"789",2004,"Southeast","Espírito Santo",32,"male",68.3073345127463
+"790",2005,"Southeast","Espírito Santo",32,"male",68.9357277866748
+"791",2006,"Southeast","Espírito Santo",32,"male",68.9832839310493
+"792",2007,"Southeast","Espírito Santo",32,"male",69.4751563475515
+"793",2008,"Southeast","Espírito Santo",32,"male",69.532126797249
+"794",2009,"Southeast","Espírito Santo",32,"male",70.4657943212383
+"795",2010,"Southeast","Espírito Santo",32,"male",70.3888250351663
+"796",2011,"Southeast","Espírito Santo",32,"male",71.0775826048229
+"797",2012,"Southeast","Espírito Santo",32,"male",71.4845329138273
+"798",2013,"Southeast","Espírito Santo",32,"male",72.0103219567697
+"799",2014,"Southeast","Espírito Santo",32,"male",72.335919926779
+"800",2015,"Southeast","Espírito Santo",32,"male",72.8482335684941
+"801",2000,"Southeast","Rio de Janeiro",33,"female",73.8916633596168
+"802",2001,"Southeast","Rio de Janeiro",33,"female",74.1608756433545
+"803",2002,"Southeast","Rio de Janeiro",33,"female",74.306362795966
+"804",2003,"Southeast","Rio de Janeiro",33,"female",74.8774433843665
+"805",2004,"Southeast","Rio de Janeiro",33,"female",75.2378604979195
+"806",2005,"Southeast","Rio de Janeiro",33,"female",75.9966342067708
+"807",2006,"Southeast","Rio de Janeiro",33,"female",76.0135043197239
+"808",2007,"Southeast","Rio de Janeiro",33,"female",76.2816371775512
+"809",2008,"Southeast","Rio de Janeiro",33,"female",76.3708895428811
+"810",2009,"Southeast","Rio de Janeiro",33,"female",76.523589284719
+"811",2010,"Southeast","Rio de Janeiro",33,"female",76.6100082049425
+"812",2011,"Southeast","Rio de Janeiro",33,"female",76.814962982315
+"813",2012,"Southeast","Rio de Janeiro",33,"female",77.2800154010179
+"814",2013,"Southeast","Rio de Janeiro",33,"female",77.3964761429163
+"815",2014,"Southeast","Rio de Janeiro",33,"female",77.558891641914
+"816",2015,"Southeast","Rio de Janeiro",33,"female",77.645533210345
+"817",2000,"Southeast","Rio de Janeiro",33,"male",64.7899179476345
+"818",2001,"Southeast","Rio de Janeiro",33,"male",65.0906903323399
+"819",2002,"Southeast","Rio de Janeiro",33,"male",65.1504708157535
+"820",2003,"Southeast","Rio de Janeiro",33,"male",65.6654270118822
+"821",2004,"Southeast","Rio de Janeiro",33,"male",66.0889077782449
+"822",2005,"Southeast","Rio de Janeiro",33,"male",67.0190085041315
+"823",2006,"Southeast","Rio de Janeiro",33,"male",67.1877546886573
+"824",2007,"Southeast","Rio de Janeiro",33,"male",67.4639526549439
+"825",2008,"Southeast","Rio de Janeiro",33,"male",67.9359570264011
+"826",2009,"Southeast","Rio de Janeiro",33,"male",68.4232097626935
+"827",2010,"Southeast","Rio de Janeiro",33,"male",68.7440427415027
+"828",2011,"Southeast","Rio de Janeiro",33,"male",69.283924468605
+"829",2012,"Southeast","Rio de Janeiro",33,"male",69.7949643447901
+"830",2013,"Southeast","Rio de Janeiro",33,"male",69.6836692590441
+"831",2014,"Southeast","Rio de Janeiro",33,"male",70.0082954760596
+"832",2015,"Southeast","Rio de Janeiro",33,"male",70.4969123765763
+"833",2000,"Southeast","São Paulo",35,"female",75.4274957845175
+"834",2001,"Southeast","São Paulo",35,"female",76.1476242238186
+"835",2002,"Southeast","São Paulo",35,"female",76.4211085895302
+"836",2003,"Southeast","São Paulo",35,"female",76.7016334823722
+"837",2004,"Southeast","São Paulo",35,"female",76.8568095832158
+"838",2005,"Southeast","São Paulo",35,"female",77.5968034604523
+"839",2006,"Southeast","São Paulo",35,"female",77.5663861013562
+"840",2007,"Southeast","São Paulo",35,"female",77.9757741807371
+"841",2008,"Southeast","São Paulo",35,"female",78.142005303116
+"842",2009,"Southeast","São Paulo",35,"female",78.2326846929394
+"843",2010,"Southeast","São Paulo",35,"female",78.3785896287281
+"844",2011,"Southeast","São Paulo",35,"female",78.4988141785307
+"845",2012,"Southeast","São Paulo",35,"female",78.936463798079
+"846",2013,"Southeast","São Paulo",35,"female",79.0388995105046
+"847",2014,"Southeast","São Paulo",35,"female",79.1230353544827
+"848",2015,"Southeast","São Paulo",35,"female",79.2879350743723
+"849",2000,"Southeast","São Paulo",35,"male",66.9403490287117
+"850",2001,"Southeast","São Paulo",35,"male",67.5550075903913
+"851",2002,"Southeast","São Paulo",35,"male",68.0029120021742
+"852",2003,"Southeast","São Paulo",35,"male",68.5441258505255
+"853",2004,"Southeast","São Paulo",35,"male",68.9862246105728
+"854",2005,"Southeast","São Paulo",35,"male",69.9848258214867
+"855",2006,"Southeast","São Paulo",35,"male",70.3154255230962
+"856",2007,"Southeast","São Paulo",35,"male",70.7940102241453
+"857",2008,"Southeast","São Paulo",35,"male",70.9917209374117
+"858",2009,"Southeast","São Paulo",35,"male",71.2477183503711
+"859",2010,"Southeast","São Paulo",35,"male",71.3293664474281
+"860",2011,"Southeast","São Paulo",35,"male",71.5084925531484
+"861",2012,"Southeast","São Paulo",35,"male",71.9025770155823
+"862",2013,"Southeast","São Paulo",35,"male",72.1748678529418
+"863",2014,"Southeast","São Paulo",35,"male",72.5053942695802
+"864",2015,"Southeast","São Paulo",35,"male",72.8006408963528

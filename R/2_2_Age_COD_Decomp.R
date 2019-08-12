@@ -15,6 +15,7 @@ source('R/Functions_Brazil.R')
 Data      <- Data[order(region,state,year,sex,cause,age.group),]
 Data$sex2 <- Data$sex
 
+#unique(Data$cause)
 #an example
 #age.group   <- sort(unique(Data[year == 2000 & state == 'Acre' & sex == 'female',]$age.group))
 #mxcvec      <- Data[year == 2000 & state == 'Acre' & sex == 'female',]$mx
