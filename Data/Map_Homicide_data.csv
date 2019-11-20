@@ -1,0 +1,109 @@
+"","state_code","region","state","sex","cause","Period","contribution"
+"1",11,"North","Rondônia","female","homicide","2000-07",0.160113715220348
+"2",11,"North","Rondônia","male","homicide","2000-07",0.535357134377961
+"3",11,"North","Rondônia","female","homicide","2007-15",-0.0682200542720182
+"4",11,"North","Rondônia","male","homicide","2007-15",-0.072789809581522
+"5",12,"North","Acre","female","homicide","2000-07",-0.0212366961037418
+"6",12,"North","Acre","male","homicide","2000-07",0.0969873782419768
+"7",12,"North","Acre","female","homicide","2007-15",0.0273340482299744
+"8",12,"North","Acre","male","homicide","2007-15",-0.204651490314191
+"9",13,"North","Amazonas","female","homicide","2000-07",-0.0121189094371488
+"10",13,"North","Amazonas","male","homicide","2000-07",0.080998964411819
+"11",13,"North","Amazonas","female","homicide","2007-15",-0.0728818448719721
+"12",13,"North","Amazonas","male","homicide","2007-15",-0.557905407143977
+"13",14,"North","Roraima","female","homicide","2000-07",0.195381204517147
+"14",14,"North","Roraima","male","homicide","2000-07",0.593892427677474
+"15",14,"North","Roraima","female","homicide","2007-15",-0.0795609608676529
+"16",14,"North","Roraima","male","homicide","2007-15",-0.608180380195833
+"17",15,"North","Pará","female","homicide","2000-07",-0.0723860855373175
+"18",15,"North","Pará","male","homicide","2000-07",-0.941967058586158
+"19",15,"North","Pará","female","homicide","2007-15",-0.0846639851911135
+"20",15,"North","Pará","male","homicide","2007-15",-0.647896401367419
+"21",16,"North","Amapá","female","homicide","2000-07",-0.0559145210752376
+"22",16,"North","Amapá","male","homicide","2000-07",0.481542557917408
+"23",16,"North","Amapá","female","homicide","2007-15",-0.0614316540207227
+"24",16,"North","Amapá","male","homicide","2007-15",-0.443899359235658
+"25",17,"North","Tocantins","female","homicide","2000-07",-0.0241713011532028
+"26",17,"North","Tocantins","male","homicide","2000-07",0.181879933326613
+"27",17,"North","Tocantins","female","homicide","2007-15",-0.0422291907207182
+"28",17,"North","Tocantins","male","homicide","2007-15",-0.530851810801238
+"29",21,"Northeast","Maranhão","female","homicide","2000-07",-0.0149968785882066
+"30",21,"Northeast","Maranhão","male","homicide","2000-07",-0.590685819512402
+"31",21,"Northeast","Maranhão","female","homicide","2007-15",-0.0545420213462506
+"32",21,"Northeast","Maranhão","male","homicide","2007-15",-0.44662885593381
+"33",22,"Northeast","Piauí","female","homicide","2000-07",-0.0302053851360853
+"34",22,"Northeast","Piauí","male","homicide","2000-07",-0.00831918096734796
+"35",22,"Northeast","Piauí","female","homicide","2007-15",-0.0364234120765587
+"36",22,"Northeast","Piauí","male","homicide","2007-15",-0.244655168679657
+"37",23,"Northeast","Ceará","female","homicide","2000-07",0.0190770566566414
+"38",23,"Northeast","Ceará","male","homicide","2000-07",-0.153639522420519
+"39",23,"Northeast","Ceará","female","homicide","2007-15",-0.0522897675062239
+"40",23,"Northeast","Ceará","male","homicide","2007-15",-0.967181048387246
+"41",24,"Northeast","Rio Grande do Norte","female","homicide","2000-07",-0.0285318840227831
+"42",24,"Northeast","Rio Grande do Norte","male","homicide","2000-07",-0.443913930113894
+"43",24,"Northeast","Rio Grande do Norte","female","homicide","2007-15",-0.0718496269973343
+"44",24,"Northeast","Rio Grande do Norte","male","homicide","2007-15",-1.20591711408872
+"45",25,"Northeast","Paraíba","female","homicide","2000-07",-0.0187512937948924
+"46",25,"Northeast","Paraíba","male","homicide","2000-07",-0.209342659349076
+"47",25,"Northeast","Paraíba","female","homicide","2007-15",-0.0397218219187607
+"48",25,"Northeast","Paraíba","male","homicide","2007-15",-0.592388398193862
+"49",26,"Northeast","Pernambuco","female","homicide","2000-07",0.046284850124664
+"50",26,"Northeast","Pernambuco","male","homicide","2000-07",0.282259786080878
+"51",26,"Northeast","Pernambuco","female","homicide","2007-15",0.0587010632516183
+"52",26,"Northeast","Pernambuco","male","homicide","2007-15",0.59066318996868
+"53",27,"Northeast","Alagoas","female","homicide","2000-07",-0.0700730064940416
+"54",27,"Northeast","Alagoas","male","homicide","2000-07",-1.58095694171119
+"55",27,"Northeast","Alagoas","female","homicide","2007-15",0.0551896063460902
+"56",27,"Northeast","Alagoas","male","homicide","2007-15",0.397666704118592
+"57",28,"Northeast","Sergipe","female","homicide","2000-07",0.0358892323688593
+"58",28,"Northeast","Sergipe","male","homicide","2000-07",-0.0555564271441256
+"59",28,"Northeast","Sergipe","female","homicide","2007-15",-0.0781402496350978
+"60",28,"Northeast","Sergipe","male","homicide","2007-15",-1.4590457790412
+"61",29,"Northeast","Bahia","female","homicide","2000-07",-0.0368615491336328
+"62",29,"Northeast","Bahia","male","homicide","2000-07",-0.761649979022422
+"63",29,"Northeast","Bahia","female","homicide","2007-15",-0.0285659920221093
+"64",29,"Northeast","Bahia","male","homicide","2007-15",-0.562287102328497
+"65",31,"Southeast","Minas Gerais","female","homicide","2000-07",-0.0308345873161642
+"66",31,"Southeast","Minas Gerais","male","homicide","2000-07",-0.382953247663849
+"67",31,"Southeast","Minas Gerais","female","homicide","2007-15",0.0140616952528489
+"68",31,"Southeast","Minas Gerais","male","homicide","2007-15",0.0302969488695055
+"69",32,"Southeast","Espírito Santo","female","homicide","2000-07",-0.0806274300159942
+"70",32,"Southeast","Espírito Santo","male","homicide","2000-07",-0.159566926304294
+"71",32,"Southeast","Espírito Santo","female","homicide","2007-15",0.124867975869819
+"72",32,"Southeast","Espírito Santo","male","homicide","2007-15",0.734917524566939
+"73",33,"Southeast","Rio de Janeiro","female","homicide","2000-07",0.0681765658844995
+"74",33,"Southeast","Rio de Janeiro","male","homicide","2000-07",0.456765728749346
+"75",33,"Southeast","Rio de Janeiro","female","homicide","2007-15",0.0233745114105233
+"76",33,"Southeast","Rio de Janeiro","male","homicide","2007-15",0.573363588544225
+"77",35,"Southeast","São Paulo","female","homicide","2000-07",0.0970067743961636
+"78",35,"Southeast","São Paulo","male","homicide","2000-07",1.19498506174229
+"79",35,"Southeast","São Paulo","female","homicide","2007-15",0.0129280966341412
+"80",35,"Southeast","São Paulo","male","homicide","2007-15",0.175575326846328
+"81",41,"South","Paraná","female","homicide","2000-07",-0.0295920738890771
+"82",41,"South","Paraná","male","homicide","2000-07",-0.492045694889981
+"83",41,"South","Paraná","female","homicide","2007-15",0.0155249814878431
+"84",41,"South","Paraná","male","homicide","2007-15",0.238404486041915
+"85",42,"South","Santa Catarina","female","homicide","2000-07",-0.00892402878136522
+"86",42,"South","Santa Catarina","male","homicide","2000-07",-0.100540711407263
+"87",42,"South","Santa Catarina","female","homicide","2007-15",-0.0142391021638559
+"88",42,"South","Santa Catarina","male","homicide","2007-15",-0.131327913444181
+"89",43,"South","Rio Grande do Sul","female","homicide","2000-07",-0.00425958791693404
+"90",43,"South","Rio Grande do Sul","male","homicide","2000-07",-0.163774321603441
+"91",43,"South","Rio Grande do Sul","female","homicide","2007-15",-0.0452714261365941
+"92",43,"South","Rio Grande do Sul","male","homicide","2007-15",-0.273966591610574
+"93",50,"Center West","Mato Grosso do Sul","female","homicide","2000-07",0.0581697916416317
+"94",50,"Center West","Mato Grosso do Sul","male","homicide","2000-07",0.149083949704632
+"95",50,"Center West","Mato Grosso do Sul","female","homicide","2007-15",0.0505757581590416
+"96",50,"Center West","Mato Grosso do Sul","male","homicide","2007-15",0.308854261463239
+"97",51,"Center West","Mato Grosso","female","homicide","2000-07",0.0289018668410819
+"98",51,"Center West","Mato Grosso","male","homicide","2000-07",0.638509144247138
+"99",51,"Center West","Mato Grosso","female","homicide","2007-15",-0.00663940563337917
+"100",51,"Center West","Mato Grosso","male","homicide","2007-15",-0.118322493667804
+"101",52,"Center West","Goiás","female","homicide","2000-07",0.0455475950598867
+"102",52,"Center West","Goiás","male","homicide","2000-07",-0.115156024721372
+"103",52,"Center West","Goiás","female","homicide","2007-15",-0.0660525855970633
+"104",52,"Center West","Goiás","male","homicide","2007-15",-0.711853860584228
+"105",53,"Center West","Distrito Federal","female","homicide","2000-07",-0.0111549390939132
+"106",53,"Center West","Distrito Federal","male","homicide","2000-07",0.270000723223831
+"107",53,"Center West","Distrito Federal","female","homicide","2007-15",0.0219556837673167
+"108",53,"Center West","Distrito Federal","male","homicide","2007-15",0.235434046782899

@@ -1,5 +1,4 @@
 rm(list=ls(all=TRUE))
-
 library(data.table)
 library(ggthemes)
 library(ggplot2)
