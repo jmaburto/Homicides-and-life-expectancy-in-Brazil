@@ -5,8 +5,6 @@ library(data.table)
 library(reshape2)
 library(DemoTools)
 
-setwd("C:/Users/jmaburto.SAM/Documents/GitHub/Homicides-and-life-expectancy-in-Brazil/")
-
 source('R/1_Get Data.R')
 source('R/Functions_Brazil.R')
 
@@ -27,7 +25,13 @@ e0.Brazil.states  <- e0.Brazil.states[order(region,state_code,sex,year),]
 
 names(e0.Brazil.states)[6] <- 'life.expectancy'
 
-save(e0.Brazil.states, file = 'Data/Check_LifeExpectancy_Brazil05Aug2019.RData')
+#save(e0.Brazil.states, file = 'Data/Check_LifeExpectancy_Brazil05Aug2019.RData')
 #chek life expectancy levels
 #write.csv(e0.Brazil.states,file = 'Data/Check_LifeExpectancy_Brazil05Aug2019.csv')
- 
+
+#table for life expectancy levels in 2000, 2007, 2015
+
+
+App.table.2 <- dcast.data.table(sex+region+state  ~ year,data = e0.Brazil.states[year %in% c(2000,2007,2015)],value.var = 'life.expectancy')
+App.table.2[,total.icnrease := `2015` - `2000`]
+write.csv(App.table.2,file = 'BMJ submission/AppTable2.csv',row.names = F)

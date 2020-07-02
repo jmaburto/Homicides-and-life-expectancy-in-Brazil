@@ -5,8 +5,6 @@ library(ggplot2)
 library(RColorBrewer)
 library(gridExtra)
 
-setwd("C:/Users/jmaburto.SAM/Documents/GitHub/Homicides-and-life-expectancy-in-Brazil/")
-
 # period 1 
 initial.year1 <- 2000
 final.year1   <- 2007
