@@ -5,9 +5,6 @@ library(ggplot2)
 library(RColorBrewer)
 library(gridExtra)
 
-
-setwd("C:/Users/jmaburto.SAM/Documents/GitHub/Homicides-and-life-expectancy-in-Brazil/")
-
 load('Data/Decomposition_Results.RData')
 
 

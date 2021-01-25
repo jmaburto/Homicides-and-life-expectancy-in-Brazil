@@ -51,7 +51,7 @@ gdata::keep(Cause.contribution,Decomposition.results,sure = T)
 Fig2 <-  ggplot(Cause.contribution[cause == 'homicide'], aes(contribution, state, sex2)) +
   geom_vline(xintercept = 0,lty = 2)+
   xlim(c(-2,2.5))+
-  xlab('Contribution to change in life expectancty at birth (years)')+
+  xlab('Contribution to change in life expectancy at birth as a result of homicides (years)')+
   geom_point(data = Cause.contribution[cause == 'homicide'], aes(contribution, state,col=Period, shape=Period),size = 3) +
   facet_grid(region2 ~ sex2, scales = "free", space = "free") +
   theme_light()+
@@ -74,7 +74,7 @@ dev.off()
 Fig3 <-  ggplot(Cause.contribution[cause == 'ischemic heart diseases'], aes(contribution, state, sex2)) +
   geom_vline(xintercept = 0,lty = 2)+
   xlim(c(-2,2.5))+
-  xlab('Contribution to change in life expectancty at birth (years)')+
+  xlab('Contribution to change in life expectancy at birth as a result of IHD (years)')+
   geom_point(data = Cause.contribution[cause == 'ischemic heart diseases'], aes(contribution, state,col=Period, shape=Period),size = 3) +
   facet_grid(region2 ~ sex2, scales = "free", space = "free") +
   theme_light()+
@@ -97,7 +97,7 @@ dev.off()
 Fig4 <-  ggplot(Cause.contribution[cause == 'remaining avoidable'], aes(contribution, state, sex2)) +
   geom_vline(xintercept = 0,lty = 2)+
   xlim(c(-2,2.5))+
-  xlab('Contribution to change in life expectancty at birth (years)')+
+  xlab('Contribution to change in life expectancy at birth as a result of remaining avoidable/amenable causes (years)')+
   geom_point(data = Cause.contribution[cause == 'remaining avoidable'], aes(contribution, state,col=Period, shape=Period),size = 3) +
   facet_grid(region2 ~ sex2, scales = "free", space = "free") +
   theme_light()+
@@ -112,60 +112,7 @@ Fig4
 
 pdf(file="R/Figures/Figure_4_Amenable.pdf",width=10,height=9,useDingbats = F)
 Fig4
-dev.off()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Fig2 <-  ggplot(Cause.contribution[sex == 'male'], aes(contribution, state, sex2)) +
-  geom_vline(xintercept = 0,lty = 2)+
-  #xlim(c(-1.5,2.5))+
-  xlab('Contribution to change in life expectancty at birth (years)')+
-  geom_point(data = Cause.contribution[sex == 'male'], aes(contribution, state,col=Period, shape=Period),size = 3) +
-  facet_grid(region2 ~ cause, scales = "free", space = "free") +
-  theme_light()+
-  scale_color_manual( values=c('magenta','blue'))+
-  theme(axis.title.y=element_blank())+
-  theme(axis.title.x = element_text(size = 12, angle = 00))+
-  theme(text = element_text(size=14),
-        strip.text.x = element_text(size = 14, colour = "black"))+
-  theme(strip.text.y = element_text(colour = "black"))+
-  theme(legend.position = 'bottom')
-Fig2
-
-pdf(file="R/Figures/Figure_1.pdf",width=10,height=9,useDingbats = F)
-Fig1
-dev.off()
-
-Fig3 <-  ggplot(Cause.contribution[sex == 'female'], aes(contribution, state, sex2)) +
-  geom_vline(xintercept = 0,lty = 2)+
-  #xlim(c(-3,6))+
-  xlab('Contribution to change in life expectancty at birth (years)')+
-  geom_point(data = Cause.contribution[sex == 'female'], aes(contribution, state,col=Period, shape=Period),size = 3) +
-  facet_grid(region2 ~ cause, scales = "free", space = "free") +
-  theme_light()+
-  scale_color_manual( values=c('magenta','blue'))+
-  theme(axis.title.y=element_blank())+
-  theme(axis.title.x = element_text(size = 12, angle = 00))+
-  theme(text = element_text(size=14),
-        strip.text.x = element_text(size = 14, colour = "black"))+
-  theme(strip.text.y = element_text(colour = "black"))+
-  theme(legend.position = 'bottom')
-Fig3
-
-
+dev.FF
 
 ### subset data for a map
 Homicide.contribution <- Cause.contribution[cause == 'homicide',c(1:7)]

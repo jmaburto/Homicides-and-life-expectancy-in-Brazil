@@ -7,14 +7,14 @@ LifeExpectancy <- compiler::cmpfun(function(mx,Sex = "f", Age = seq(0,90,5)){
   axmethod <- "pas"
   nMx <- mx
   
-  nAx <- mxorqx2ax(nMx = nMx,Age = Age,axmethod = axmethod,
+  nAx <- lt_id_morq_a(nMx = nMx,Age = Age,axmethod = axmethod,
                    AgeInt = AgeInt, Sex = Sex,region = 'w',mod = TRUE)
   nqx <- (AgeInt*nMx)/(1 + (AgeInt - nAx)*nMx)
     
-  lx <- qx2lx(nqx, radix = radix)
-  ndx <- lx2dx(lx)
-  nLx <- lxdxax2Lx(lx = lx, ndx = ndx, nax = nAx, AgeInt = AgeInt)
-  Tx <- Lx2Tx(nLx)
+  lx <- lt_id_q_l(nqx, radix = radix)
+  ndx <- lt_id_l_d(lx)
+  nLx <- lt_id_lda_L(lx = lx, ndx = ndx, nax = nAx, AgeInt = AgeInt)
+  Tx <- lt_id_L_T(nLx)
   ex <- Tx/lx
   ex[1]
   })

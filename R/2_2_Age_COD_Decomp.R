@@ -6,8 +6,6 @@ library(DemoTools)
 library(DemoDecomp)
 library(parallelsugar)
 
-setwd("C:/Users/jmaburto.SAM/Documents/GitHub/Homicides-and-life-expectancy-in-Brazil/")
-
 #get data
 source('R/1_Get Data.R')
 source('R/Functions_Brazil.R')

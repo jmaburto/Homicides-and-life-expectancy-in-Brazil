@@ -34,4 +34,4 @@ names(e0.Brazil.states)[6] <- 'life.expectancy'
 
 App.table.2 <- dcast.data.table(sex+region+state  ~ year,data = e0.Brazil.states[year %in% c(2000,2007,2015)],value.var = 'life.expectancy')
 App.table.2[,total.icnrease := `2015` - `2000`]
-write.csv(App.table.2,file = 'BMJ submission/AppTable2.csv',row.names = F)
+write.csv(App.table.2,file = 'BMJ Open/Revision/AppTable2.csv',row.names = F)

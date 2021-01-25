@@ -5,8 +5,6 @@ library(data.table)
 library(reshape2)
 library(DemoTools)
 
-setwd("C:/Users/jmaburto.SAM/Documents/GitHub/Homicides-and-life-expectancy-in-Brazil/")
-
 Data <- data.table(read.csv(file = 'Data/Homicide Database Brazil July302019.csv', sep = '',header = T,stringsAsFactors = F ))
 Data[,new.deaths:= rate_corr*pop]
 Data <- Data[Data$cause == 'total', c(4,5,6,7,8,13)]

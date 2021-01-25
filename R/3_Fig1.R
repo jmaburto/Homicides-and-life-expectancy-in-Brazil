@@ -1,11 +1,10 @@
 rm(list=ls(all=TRUE))
+
 library(data.table)
 library(ggthemes)
 library(ggplot2)
 library(RColorBrewer)
 library(gridExtra)
-
-setwd("C:/Users/jmaburto.SAM/Documents/GitHub/Homicides-and-life-expectancy-in-Brazil/")
 
 # period 1 
 initial.year1 <- 2000
@@ -53,7 +52,7 @@ gdata::keep(Decomposition.results,e0.change, sure = T)
 Fig1 <-  ggplot(e0.change, aes(e0.change, state, sex2)) +
   geom_vline(xintercept = 0,lty = 2)+
   xlim(c(-3,6))+
-  xlab('Change in life expectancty at birth (years)')+
+  xlab('Change in life expectancy at birth (years)')+
   geom_point(data = e0.change, aes(e0.change, state,col=Period, shape=Period),size = 3) +
   facet_grid(region2 ~ sex2, scales = "free", space = "free") +
   theme_light()+

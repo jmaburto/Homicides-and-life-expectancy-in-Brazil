@@ -3,7 +3,6 @@ library(data.table)
 library(ggthemes)
 library(ggplot2)
 
-setwd("C:/Users/jmaburto.SAM/Documents/GitHub/Homicides-and-life-expectancy-in-Brazil/")
 
 # period 1 
 initial.year1 <- 2000

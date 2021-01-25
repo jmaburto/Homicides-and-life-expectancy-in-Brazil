@@ -5,8 +5,6 @@ library(ggplot2)
 library(RColorBrewer)
 library(gridExtra)
 
-setwd("C:/Users/jmaburto.SAM/Documents/GitHub/Homicides-and-life-expectancy-in-Brazil/")
-
 # period 1 
 initial.year1 <- 2000
 final.year1   <- 2007
@@ -59,7 +57,7 @@ FigS1 <-  ggplot(fig.data,
                  aes(contribution, state, sex2)) +
   geom_vline(xintercept = 0,lty = 2)+
   xlim(c(-2,2.5))+
-  xlab('Contribution to change in life expectancty at birth (years)')+
+  xlab('Contribution to change in life expectancy at birth (years)')+
   geom_point(data = fig.data[sex == 'male'], aes(contribution, state,col=Period, shape=Period),size = 3) +
   facet_grid(region2 ~ cause, scales = "free", space = "free") +
   theme_light()+
@@ -80,7 +78,7 @@ FigS2 <-  ggplot(fig.data,
                  aes(contribution, state, sex2)) +
   geom_vline(xintercept = 0,lty = 2)+
   xlim(c(-2,2.5))+
-  xlab('Contribution to change in life expectancty at birth (years)')+
+  xlab('Contribution to change in life expectancy at birth (years)')+
   geom_point(data = fig.data[sex == 'female'], aes(contribution, state,col=Period, shape=Period),size = 3) +
   facet_grid(region2 ~ cause, scales = "free", space = "free") +
   theme_light()+

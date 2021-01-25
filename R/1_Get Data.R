@@ -9,9 +9,6 @@ rm(list=ls(all=TRUE))
 library(data.table)
 library(reshape2)
 
-setwd("C:/Users/jmaburto.SAM/Documents/GitHub/Homicides-and-life-expectancy-in-Brazil/")
-
-
 #source('R/Funcs_1.R')
 Data <- data.table(read.csv(file = 'Data/Homicide Database Brazil July302019.csv', sep = '',header = T,stringsAsFactors = F ))
 #Total.mx.check <- Data[Data$cause == 'total' & Data$state_code == 12 &Data$sex == 'female' & Data$grupid == 0 & Data$year %in% 2000:2015, c(1:9,12)] 
@@ -31,16 +28,4 @@ Data <- Data[order(region,state,sex,year,cause,age.group),]
 #mx.total[mx.total$age.group == 0 & mx.total$state_code == 12 &mx.total$sex == 'female',]$mx
 
 gdata::keep(Data, sure = T)
-
-
-# 
-# unique(Data$cause)
-# unique(Data$year)
-# 
-
-
-
-
-
-
 
